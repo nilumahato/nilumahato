@@ -61,7 +61,7 @@ A secure chatting app with anonymous ID.
   <a href="https://www.linkedin.com/in/aarati-mahato-%F0%9F%87%B3%F0%9F%87%B5-131500211/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://aaratimahato.com">
+  <a href="https://aaratimahato.com.np">
     <img src="https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
   </a>
   <a href="https://tryhackme.com/p/Nilu">
