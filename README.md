@@ -13,7 +13,7 @@ Hello, I'm **Aarati Mahato**, but you can also call me **Nilu**. I'm passionate 
 - 🌱 I’m currently learning **Advanced Flutter Development**
 - 💬 Ask me about **Flutter, HTML, CSS, Python, Cybersecurity**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aarati-mahato-%F0%9F%87%B3%F0%9F%87%B5-131500211/)
-- 🌐 Check out my website: [aaratimahato.com](https://aaratimahato.com)
+- 🌐 Check out my website: [aaratimahato.com](https://aaratimahato.com.np)
 
 ## Skills
 
