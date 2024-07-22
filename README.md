@@ -40,6 +40,9 @@ Hello, I'm **Aarati Mahato**, but you can also call me **Nilu**. I'm passionate 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilumahato&theme=radical" alt="Aarati's GitHub streak stats">
 </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nilumahato&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
 
 ## Top Languages
 
