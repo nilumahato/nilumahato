@@ -1,4 +1,7 @@
 # Hi there, I'm Aarati Mahato 👋
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nilumahato&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Flutter+Developer;HTML%2C+CSS%2C+Python+Enthusiast;Cybersecurity+Learner)
 
@@ -39,9 +42,6 @@ Hello, I'm **Aarati Mahato**, but you can also call me **Nilu**. I'm passionate 
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilumahato&theme=radical" alt="Aarati's GitHub streak stats">
-</p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nilumahato&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
 ## Top Languages
