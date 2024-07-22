@@ -1,7 +1,4 @@
 # Hi there, I'm Aarati Mahato 👋
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nilumahato&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-</p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Flutter+Developer;HTML%2C+CSS%2C+Python+Enthusiast;Cybersecurity+Learner)
 
@@ -73,4 +70,7 @@ A secure chatting app with anonymous ID.
   <a href="https://tryhackme.com/p/Nilu">
     <img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nilumahato&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
